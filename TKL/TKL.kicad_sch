@@ -3150,7 +3150,7 @@
     (property "Value" "MX-LED" (id 1) (at 48.26 82.55 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-Caps-Hotswap-Antishear-LED" (id 2) (at 28.575 79.375 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Antishear-LED" (id 2) (at 28.575 79.375 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 28.575 79.375 0)
@@ -5371,7 +5371,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 48.26 57.15 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap" (id 2) (at 28.575 53.975 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap-Antishear" (id 2) (at 28.575 53.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 28.575 53.975 0)
@@ -6364,7 +6364,7 @@
       (reference "MX16") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
     )
     (path "/c7ab763e-59cb-41f7-96c4-e1fac7322f4c"
-      (reference "MX17") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX17") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
     )
     (path "/b43e6966-18b1-4b17-87ed-a50eba27c177"
       (reference "MX18") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
@@ -6460,7 +6460,7 @@
       (reference "MX48") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
     )
     (path "/1d77ce90-e517-41dc-bad4-ec66d2224845"
-      (reference "MX49") (unit 1) (value "MX-LED") (footprint "MX_Only:MXOnly-Caps-Hotswap-Antishear-LED")
+      (reference "MX49") (unit 1) (value "MX-LED") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear-LED")
     )
     (path "/e27e4bf2-b01e-42ab-ba76-79d62539d5d0"
       (reference "MX50") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")

@@ -1,4 +1,4 @@
-20137150051646895
+20150327099771567
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56735,6 +56735,13 @@ MXOnly-1.5U-Hotswap
 2
 2
 MX_Only
+MXOnly-1.5U-Hotswap-Antishear
+
+
+0
+10
+2
+MX_Only
 MXOnly-1.5U-Hotswap-LED
 
 
@@ -56826,6 +56833,13 @@ MXOnly-1.75U-Hotswap
 2
 2
 MX_Only
+MXOnly-1.75U-Hotswap-Antishear
+
+
+0
+10
+2
+MX_Only
 MXOnly-1.75U-Hotswap-LED
 
 
@@ -56874,6 +56888,13 @@ MXOnly-1U-Hotswap-Antishear
 0
 10
 2
+MX_Only
+MXOnly-1U-Hotswap-Antishear-LED
+
+
+0
+12
+4
 MX_Only
 MXOnly-1U-Hotswap-LED
 
@@ -56929,6 +56950,13 @@ MXOnly-2.25U-Hotswap
 
 0
 2
+2
+MX_Only
+MXOnly-2.25U-Hotswap-Antishear
+
+
+0
+10
 2
 MX_Only
 MXOnly-2.25U-Hotswap-LED
@@ -57027,6 +57055,13 @@ MXOnly-2.75U-Hotswap
 
 0
 2
+2
+MX_Only
+MXOnly-2.75U-Hotswap-Antishear
+
+
+0
+10
 2
 MX_Only
 MXOnly-2.75U-Hotswap-LED
@@ -57132,6 +57167,20 @@ MXOnly-2U-Hotswap
 
 0
 2
+2
+MX_Only
+MXOnly-2U-Hotswap-Antishear
+
+
+0
+10
+2
+MX_Only
+MXOnly-2U-Hotswap-Antishear-VerticalStabilizers
+
+
+0
+10
 2
 MX_Only
 MXOnly-2U-Hotswap-LED
@@ -57601,6 +57650,13 @@ MXOnly-7U-Hotswap
 
 0
 2
+2
+MX_Only
+MXOnly-7U-Hotswap-Antishear
+
+
+0
+10
 2
 MX_Only
 MXOnly-7U-Hotswap-LED

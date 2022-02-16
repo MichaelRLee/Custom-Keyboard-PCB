@@ -4,3 +4,9 @@
 [submodule "MX_Alps_Hybrid.pretty"]
 	path = MX_Alps_Hybrid.pretty
 	url = https://github.com/MichaelRLee/MX_Alps_Hybrid.pretty
+[submodule "teensy_kicad/teensy.pretty"]
+	path = teensy_kicad/teensy.pretty
+	url = https://github.com/XenGi/teensy.pretty
+[submodule "teensy_kicad/teensy_library"]
+	path = teensy_kicad/teensy_library
+	url = https://github.com/XenGi/teensy_library

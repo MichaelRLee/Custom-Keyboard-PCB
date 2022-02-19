@@ -2542,7 +2542,7 @@
     (property "Value" "Space" (id 1) (at 106.68 109.22 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-7U-Hotswap-Antishear" (id 2) (at 86.995 106.045 0)
+    (property "Footprint" "MX_Only:MXOnly-7U-Hotswap-Antishear-ReversedStabilizers" (id 2) (at 86.995 106.045 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 86.995 106.045 0)
@@ -6259,7 +6259,7 @@
       (reference "MX79") (unit 1) (value "L_Alt") (footprint "MX_Only:MXOnly-1.5U-Hotswap-Antishear")
     )
     (path "/09e093f9-c30a-445c-9139-986323991630"
-      (reference "MX80") (unit 1) (value "Space") (footprint "MX_Only:MXOnly-7U-Hotswap-Antishear")
+      (reference "MX80") (unit 1) (value "Space") (footprint "MX_Only:MXOnly-7U-Hotswap-Antishear-ReversedStabilizers")
     )
     (path "/de64a72b-5af6-452f-83ec-01b7c8e66b78"
       (reference "MX81") (unit 1) (value "R_Alt") (footprint "MX_Only:MXOnly-1.5U-Hotswap-Antishear")

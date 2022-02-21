@@ -1476,7 +1476,7 @@
     (property "Value" "Num_0" (id 1) (at 125.095 139.065 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-2U-Hotswap-Antishear" (id 2) (at 109.855 142.875 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-Hotswap-Antishear-ReversedStabilizers" (id 2) (at 109.855 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 109.855 142.875 0)
@@ -1814,7 +1814,7 @@
     (property "Value" "Num_Enter" (id 1) (at 163.195 139.065 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-2U-Hotswap-Antishear-VerticalStabilizers" (id 2) (at 147.955 142.875 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-Hotswap-Antishear-ReversedVerticalStabilizers" (id 2) (at 147.955 142.875 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 147.955 142.875 0)
@@ -1833,7 +1833,7 @@
     (property "Value" "Num_+" (id 1) (at 163.195 109.22 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-2U-Hotswap-Antishear-VerticalStabilizers" (id 2) (at 147.955 113.03 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-Hotswap-Antishear-ReversedVerticalStabilizers" (id 2) (at 147.955 113.03 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 147.955 113.03 0)
@@ -2048,7 +2048,7 @@
       (reference "MX14") (unit 1) (value "Num_6") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
     )
     (path "/f21b38da-7f34-46c2-ad96-22d62a68aec2"
-      (reference "MX15") (unit 1) (value "Num_+") (footprint "MX_Only:MXOnly-2U-Hotswap-Antishear-VerticalStabilizers")
+      (reference "MX15") (unit 1) (value "Num_+") (footprint "MX_Only:MXOnly-2U-Hotswap-Antishear-ReversedVerticalStabilizers")
     )
     (path "/ed82818d-53c6-40f6-bda4-5659ea1c78ad"
       (reference "MX16") (unit 1) (value "Num_1") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
@@ -2060,13 +2060,13 @@
       (reference "MX18") (unit 1) (value "Num_3") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
     )
     (path "/807c80c4-d9e4-411c-a08d-b994100fe277"
-      (reference "MX19") (unit 1) (value "Num_0") (footprint "MX_Only:MXOnly-2U-Hotswap-Antishear")
+      (reference "MX19") (unit 1) (value "Num_0") (footprint "MX_Only:MXOnly-2U-Hotswap-Antishear-ReversedStabilizers")
     )
     (path "/cf9c0d93-1442-4a1b-a846-175926755077"
       (reference "MX20") (unit 1) (value "Num_.") (footprint "MX_Only:MXOnly-1U-Hotswap-Antishear")
     )
     (path "/f1fe9332-8e34-48c2-b155-1eb943f22300"
-      (reference "MX21") (unit 1) (value "Num_Enter") (footprint "MX_Only:MXOnly-2U-Hotswap-Antishear-VerticalStabilizers")
+      (reference "MX21") (unit 1) (value "Num_Enter") (footprint "MX_Only:MXOnly-2U-Hotswap-Antishear-ReversedVerticalStabilizers")
     )
     (path "/8edb82c4-2378-4b43-a5b0-f96497398fcf"
       (reference "R1") (unit 1) (value "R_Small") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")

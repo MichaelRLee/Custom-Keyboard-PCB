@@ -20,8 +20,8 @@ D18,1N4148,D_DO-34_SOD68_P7.62mm_Horizontal,78.803499,-120.496249,90.0,bottom
 D19,1N4148,D_DO-34_SOD68_P7.62mm_Horizontal,50.799999,-139.546249,90.0,bottom
 D20,1N4148,D_DO-34_SOD68_P7.62mm_Horizontal,78.676499,-139.546249,90.0,bottom
 D21,1N4148,D_DO-34_SOD68_P7.62mm_Horizontal,98.424999,-130.021249,90.0,bottom
-J1,Conn_01x06_Female,PinHeader_1x06_P2.54mm_Vertical,82.137249,-38.893749,180.0,bottom
-J2,Conn_01x06_Female,PinHeader_1x06_P2.54mm_Vertical,44.037249,-38.893749,180.0,bottom
+J1,Conn_01x06_Female,PinHeader_1x06_P2.54mm_Vertical,82.137249,-37.719,180.0,bottom
+J2,Conn_01x06_Female,PinHeader_1x06_P2.54mm_Vertical,44.069,-37.719,180.0,bottom
 MX1,^,MXOnly-1U-Hotswap-Antishear,33.3375,-33.3375,0.0,top
 MX2,(,MXOnly-1U-Hotswap-Antishear,52.387499,-33.337499,0.0,top
 MX3,),MXOnly-1U-Hotswap-Antishear,71.437499,-33.337499,0.0,top

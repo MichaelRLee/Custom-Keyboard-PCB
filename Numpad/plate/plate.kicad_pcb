@@ -1402,7 +1402,7 @@
   (gr_line (start 75.261413 42.211498) (end 75.261413 56.210498) (layer "Edge.Cuts") (width 0.1) (tstamp f8585e91-bf4a-4fa4-822e-d10c148d3782))
   (gr_line (start 99.592113 91.348198) (end 99.592113 93.073698) (layer "Edge.Cuts") (width 0.1) (tstamp f8e6ffd3-12c0-46ae-8265-68c95da02886))
   (gr_line (start 108.662413 85.498498) (end 105.862413 85.498498) (layer "Edge.Cuts") (width 0.1) (tstamp f963c140-ab21-446e-8305-7f2a5c269f96))
-  (gr_text "Designed by Michael Lee\nFebruary 2022\nRev. 1 (1/5)\nJLCJLCJLCJLC" (at 83.883499 60.833) (layer "B.SilkS") (tstamp 910debd5-7810-4ea2-a530-afd9a0745510)
+  (gr_text "Designed by Michael Lee\nFebruary 2022\nRevision 1\nJLCJLCJLCJLC" (at 83.883499 60.833) (layer "B.SilkS") (tstamp 910debd5-7810-4ea2-a530-afd9a0745510)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
 

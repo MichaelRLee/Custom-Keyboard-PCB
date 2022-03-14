@@ -4044,7 +4044,7 @@
   (gr_arc (start 100.012499 22.542499) (mid 100.910525 22.914473) (end 101.282499 23.812499) (layer "Edge.Cuts") (width 0.1) (tstamp 7e598d35-d038-4d94-b6a6-570329b187f6))
   (gr_line (start 100.012499 22.542499) (end 23.812499 22.542499) (layer "Edge.Cuts") (width 0.1) (tstamp 90f614bf-dfa6-4df0-aac7-eac9b30b7332))
   (gr_line (start 101.282499 142.874999) (end 101.282499 23.812499) (layer "Edge.Cuts") (width 0.1) (tstamp d2606f93-7f81-4e36-8ceb-93d673117012))
-  (gr_text "Designed by Michael Lee\nFebruary 2022\nRev. 1 (1/5)\nJLCJLCJLCJLC" (at 68.008499 44.767499) (layer "B.SilkS") (tstamp a9d015c2-a71b-46ad-b3a4-6eea7301ee51)
+  (gr_text "Designed by Michael Lee\nFebruary 2022\nRevision 1\nJLCJLCJLCJLC" (at 68.008499 44.767499) (layer "B.SilkS") (tstamp a9d015c2-a71b-46ad-b3a4-6eea7301ee51)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
 
